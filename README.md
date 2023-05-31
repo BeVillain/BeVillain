@@ -1,7 +1,8 @@
 - 👋 Hi, I’m RadhaKrishnan
-- 👀 I’m interested in SD (software dev)
-- 🌱 I’m currently learning Python on Udemy
-- 💞️ I’m looking to collaborate on - ""
+- 👀 I’m interested in SD (Web & Software Dev)
+- 🌱 Self Taught Programmer
+- 💞️ I’m looking to collaborate on - "Js Frameworks"
+- Known FrameWorks - React.js, Next.js , Solid.js
 - 📫 How to reach me "radhakrishnan3128@gmail.com"
 
 <!---
