@@ -1,7 +1,7 @@
 - 👋 Hi, I’m RadhaKrishnan
 - 👀 I’m interested in SD (Web & Software Dev)
 - 🌱 Self Taught Programmer
-- 💞️ Known FrameWorks - React.js, Next.js , Solid.js
+- 💞️ Known FrameWorks - React.js, Next.js , Laravel.
 - 📫 Watch me out on- "https://testweb-henna.vercel.app/"
 
 <!---
